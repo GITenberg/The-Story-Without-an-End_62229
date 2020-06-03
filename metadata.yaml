@@ -1,5 +1,5 @@
 _repo: The-Story-Without-an-End_62229
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Kinderleben, oder, Das Märchen ohne Ende. English
 contributor:
   illustrator:
@@ -17,6 +17,9 @@ contributor:
     gutenberg_agent_id: '51841'
     url: http://www.gutenberg.org/2009/agents/51841
     wikipedia: https://en.wikipedia.org/wiki/Sarah_Austin_(translator)
+covers:
+- cover_type: archival
+  image_path: 62229-h/images/cover.jpg
 creator:
   author:
     agent_name: Carové, Friedrich Wilhelm
@@ -31,6 +34,8 @@ creator:
     - https://en.wikipedia.org/wiki/Friedrich_Wilhelm_Carov%C3%A9
     - https://de.wikipedia.org/wiki/Friedrich_Wilhelm_Carov%C3%A9
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62229#The-Story-Without-an-End
 gutenberg_issued: '2020-05-25'
 gutenberg_type: Text
 identifiers:
