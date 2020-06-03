@@ -1,0 +1,53 @@
+_repo: The-Story-Without-an-End_62229
+_version: 0.0.1
+alternative_title: Kinderleben, oder, Das Märchen ohne Ende. English
+contributor:
+  illustrator:
+    agent_name: Harvey, William
+    birthdate: 1796
+    deathdate: 1866
+    gutenberg_agent_id: '25917'
+    url: http://www.gutenberg.org/2009/agents/25917
+    wikipedia: https://en.wikipedia.org/wiki/William_Harvey_(artist)
+  translator:
+    agent_name: Austin, Sarah
+    alias: Austin, Sarah Taylor
+    birthdate: 1793
+    deathdate: 1867
+    gutenberg_agent_id: '51841'
+    url: http://www.gutenberg.org/2009/agents/51841
+    wikipedia: https://en.wikipedia.org/wiki/Sarah_Austin_(translator)
+creator:
+  author:
+    agent_name: Carové, Friedrich Wilhelm
+    aliases:
+    - Carove, Friedrich Wilhelm
+    - Carové, F. W.
+    birthdate: 1789
+    deathdate: 1852
+    gutenberg_agent_id: '51840'
+    url: http://www.gutenberg.org/2009/agents/51840
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Friedrich_Wilhelm_Carov%C3%A9
+    - https://de.wikipedia.org/wiki/Friedrich_Wilhelm_Carov%C3%A9
+description: ''
+gutenberg_issued: '2020-05-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62229'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Animals -- Juvenile fiction'
+- !lcsh 'Natural history -- Juvenile fiction'
+- !lcsh 'Nature -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Allegories'
+- !lcsh 'Seasons -- Juvenile fiction'
+- GITenberg
+title: The Story Without an End
+url: http://www.gutenberg.org/ebooks/62229
